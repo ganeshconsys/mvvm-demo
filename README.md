@@ -1,4 +1,4 @@
-# LoginMVVM Android Demo
+# MVVM Android Demo
 
 A small Android app that fetches mock posts from [JSONPlaceholder](https://jsonplaceholder.typicode.com/posts) and displays their titles in a scrollable Jetpack Compose list. The screen shows a loading indicator during the request and a retry button if it fails.
 
